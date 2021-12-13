@@ -10,5 +10,5 @@ A try to make some backend models and functions similar in spotify
 
 ## Runs on http://localhost:8080/
 
-### give this a star if u like it
+# Give this a ⭐ if u like it
 
